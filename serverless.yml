@@ -1,4 +1,5 @@
 service: prueba
+app: my-lambda-app 
 
 provider:
   name: aws
