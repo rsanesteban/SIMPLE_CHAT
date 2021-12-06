@@ -1,4 +1,4 @@
-service: simple-chat
+service: prueba
 
 provider:
   name: aws
