@@ -1,1 +1,3 @@
-# SIMPLE_CHAT
+# simple-chat
+
+Simple serverless chat
