@@ -1,5 +1,5 @@
 service: chat
-app: my-lambda-app 
+app: serverless-test 
 
 provider:
   name: aws
